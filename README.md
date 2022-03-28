@@ -1,5 +1,7 @@
 # Install
 
+Open terminal (macOS) or 命令提示字元 ( Windows )
+
 ```zsh
 g clone git@github.com:pakerchang/git-cz-test.git
 cd git-cz-test
