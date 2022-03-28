@@ -9,3 +9,9 @@ yarn install
 git add .
 git cz
 ```
+
+# type new
+
+## open README.md
+
+write something below here...
